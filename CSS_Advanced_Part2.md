@@ -13,7 +13,8 @@ Syntax:
 Example:
 
 Check the code on HTML_Files/CSS_MQ_Example.html 
-and test it by opening it in a browser window & resizing the window.       
+and test it by opening it in a browser window & resizing the window. 
+[Example](../HTML_Files/CSS_MQ_Example.html)
 
 Media queries can be used to check many things:
 
