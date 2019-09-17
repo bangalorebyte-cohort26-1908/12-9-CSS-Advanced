@@ -14,7 +14,7 @@ Example:
 
 Check the code on HTML_Files/CSS_MQ_Example.html 
 and test it by opening it in a browser window & resizing the window. 
-[Example Code](HTML_Files/CSS_MQ_Example.html)
+[Example Code](https://github.com/bangalorebyte-cohort26-1908/12-9-CSS-Advanced/blob/suvarna_css_advanced_topics/HTML%20Files/CSS_MediaQueries_Example.html)
 
 Media queries can be used to check many things:
 
